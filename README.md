@@ -10,4 +10,4 @@ Description:
 4. When the computer hits the ship, it tries to determine its position and sink it (the killer mode).
 5. The scores for the game are saved to the file to save wins and losses for the specific player.
 
-<sub>Academic Project - Dawson College (Computer Science Technology) - Fall 2015</sub>
+<sub>Academic Project - Dawson College (Computer Science Technology)</sub>
